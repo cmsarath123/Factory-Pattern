@@ -1,0 +1,13 @@
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\factory\example1\FactoryPatternDemo\bin\Debug\netcoreapp3.1\FactoryPatternDemo.exe
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\factory\example1\FactoryPatternDemo\bin\Debug\netcoreapp3.1\FactoryPatternDemo.deps.json
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\factory\example1\FactoryPatternDemo\bin\Debug\netcoreapp3.1\FactoryPatternDemo.runtimeconfig.json
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\factory\example1\FactoryPatternDemo\bin\Debug\netcoreapp3.1\FactoryPatternDemo.runtimeconfig.dev.json
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\factory\example1\FactoryPatternDemo\bin\Debug\netcoreapp3.1\FactoryPatternDemo.dll
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\factory\example1\FactoryPatternDemo\bin\Debug\netcoreapp3.1\FactoryPatternDemo.pdb
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\factory\example1\FactoryPatternDemo\obj\Debug\netcoreapp3.1\FactoryPatternDemo.csprojAssemblyReference.cache
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\factory\example1\FactoryPatternDemo\obj\Debug\netcoreapp3.1\FactoryPatternDemo.AssemblyInfoInputs.cache
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\factory\example1\FactoryPatternDemo\obj\Debug\netcoreapp3.1\FactoryPatternDemo.AssemblyInfo.cs
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\factory\example1\FactoryPatternDemo\obj\Debug\netcoreapp3.1\FactoryPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\factory\example1\FactoryPatternDemo\obj\Debug\netcoreapp3.1\FactoryPatternDemo.dll
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\factory\example1\FactoryPatternDemo\obj\Debug\netcoreapp3.1\FactoryPatternDemo.pdb
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\factory\example1\FactoryPatternDemo\obj\Debug\netcoreapp3.1\FactoryPatternDemo.genruntimeconfig.cache
